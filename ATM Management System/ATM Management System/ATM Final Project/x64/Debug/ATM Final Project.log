@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(93,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(106,37): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(119,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(145,34): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(184,38): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(210,41): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\ATM Final Project\Source.cpp(267,43): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  ATM Final Project.vcxproj -> C:\Users\Marawan\Desktop\ATM Project\ATM Final Project\x64\Debug\ATM Final Project.exe
